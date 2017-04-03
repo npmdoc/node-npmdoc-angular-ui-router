@@ -1,0 +1,24 @@
+<svg height="334" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="334" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-03 16:22:11 +0000   441482 byte  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-03 16:22:11 +0000    38187 byte  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-03 16:22:11 +0000     4072 byte  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-03 16:22:11 +0000     1102 byte  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-03 16:22:11 +0000     9772 byte  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-03 16:22:11 +0000     3970 byte  package.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-03 16:22:11 +0000   175484 byte  release/angular-ui-router.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-03 16:22:11 +0000    33848 byte  release/angular-ui-router.min.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-03 16:22:11 +0000     8157 byte  src/common.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-03 16:22:11 +0000     9833 byte  src/resolve.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-03 16:22:11 +0000    63172 byte  src/state.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-03 16:22:11 +0000    15103 byte  src/stateDirectives.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-03 16:22:11 +0000     1045 byte  src/stateFilters.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-03 16:22:11 +0000     6007 byte  src/templateFactory.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-03 16:22:11 +0000    42393 byte  src/urlMatcherFactory.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-03 16:22:11 +0000    14942 byte  src/urlRouter.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-03 16:22:11 +0000     1217 byte  src/view.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-03 16:22:11 +0000    11649 byte  src/viewDirective.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-03 16:22:11 +0000     1529 byte  src/viewScroll.js</tspan>
+</text>
+</svg>
