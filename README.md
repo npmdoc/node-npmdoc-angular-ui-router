@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/angular-ui-router.png?downloads=true)](https://www.npmjs.com/package/angular-ui-router)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-ui-router/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-angular-ui-router_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-ui-router/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-ui-router/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-angular-ui-router_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-ui-router/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-angular-ui-router/build/screenCapture.npmPackageListing.svg)
 
