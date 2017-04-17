@@ -1,9 +1,11 @@
 # api documentation for  [angular-ui-router (v0.4.2)](http://angular-ui.github.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-ui-router.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-ui-router) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-ui-router.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-ui-router)
 #### State-based routing for AngularJS
 
-[![NPM](https://nodei.co/npm/angular-ui-router.png?downloads=true)](https://www.npmjs.com/package/angular-ui-router)
+[![NPM](https://nodei.co/npm/angular-ui-router.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular-ui-router)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-ui-router/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-angular-ui-router_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-ui-router/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-angular-ui-router/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-angular-ui-router/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-ui-router/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-ui-router/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-angular-ui-router/build/screenCapture.npmPackageListing.svg)
 
@@ -22,12 +24,10 @@
     "contributors": [
         {
             "name": "Nate Abele",
-            "email": "nate@radify.io",
             "url": "https://github.com/nateabele"
         },
         {
             "name": "Chris Thielen",
-            "email": "christhielen@gmail.com",
             "url": "https://github.com/christopherthielen"
         },
         {
@@ -86,21 +86,17 @@
     "main": "release/angular-ui-router.js",
     "maintainers": [
         {
-            "name": "nateabele",
-            "email": "nate.abele@gmail.com"
+            "name": "nateabele"
         },
         {
-            "name": "ProLoser",
-            "email": "proloser@hotmail.com"
+            "name": "ProLoser"
         },
         {
-            "name": "christopherthielen",
-            "email": "christopherthielen@sandgnat.com"
+            "name": "christopherthielen"
         }
     ],
     "name": "angular-ui-router",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/angular-ui/ui-router.git"
@@ -113,16 +109,6 @@
     "version": "0.4.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module angular-ui-router](#apidoc.module.angular-ui-router)
-
-
-
-# <a name="apidoc.module.angular-ui-router"></a>[module angular-ui-router](#apidoc.module.angular-ui-router)
 
 
 
