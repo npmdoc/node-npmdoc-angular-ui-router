@@ -1,4 +1,7 @@
-# api documentation for  [angular-ui-router (v0.4.2)](http://angular-ui.github.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-ui-router.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-ui-router) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-ui-router.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-ui-router)
+# npmdoc-angular-ui-router
+
+#### basic api documentation for  [angular-ui-router (v0.4.2)](http://angular-ui.github.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-ui-router.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-ui-router) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-ui-router.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-ui-router)
+
 #### State-based routing for AngularJS
 
 [![NPM](https://nodei.co/npm/angular-ui-router.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular-ui-router)
@@ -106,7 +109,8 @@
         "prepublish": "grunt prepublish dist",
         "test": "grunt integrate"
     },
-    "version": "0.4.2"
+    "version": "0.4.2",
+    "bin": {}
 }
 ```
 
